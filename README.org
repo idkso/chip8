@@ -1,0 +1,2 @@
+* unfinished emulator
+will run any chip8 program with the name "test.ch8"
